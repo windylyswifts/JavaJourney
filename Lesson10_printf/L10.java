@@ -26,7 +26,7 @@ public class L10 {
         System.out.printf("letter %c\n", firstletter);
         System.out.printf("age %d\n", age);
         System.out.printf("height % f\n", height);
-        System.out.printf("is employed?: %b\n", firstletter);
+        System.out.printf("is employed?: %b\n", isEmployed);
     
     }
 }
